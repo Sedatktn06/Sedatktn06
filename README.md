@@ -1,4 +1,4 @@
-[![MasterHead](https://www.jmr.co.za/wp-content/uploads/2020/08/Land-Pg2nd_1259314342-1024x576.jpg))](https://rishavchanda.io)
+[![MasterHead](https://www.jmr.co.za/wp-content/uploads/2020/08/Land-Pg2nd_1259314342-1024x576.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sedat Kotan</h1>
 <h3 align="center">Hi, I'm Sedat Kotan, Software Developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
