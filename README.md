@@ -1,4 +1,4 @@
-[![MasterHead](https://www.it4e.com/static/media/webDevelopmentBackground.ed90dd85.png)](https://rishavchanda.io)
+[![MasterHead](https://www.atlas.edu.tr/wp-content/uploads/2024/02/software-engineering.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sedat Kotan</h1>
 <h3 align="center">Hi, I'm Sedat Kotan, Software Developer from Turkey</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
